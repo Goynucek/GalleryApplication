@@ -1,0 +1,10 @@
+C:\Users\hasan\source\repos\GalleryApplication\GalleryApplication\bin\Debug\GalleryApplication.exe.config
+C:\Users\hasan\source\repos\GalleryApplication\GalleryApplication\bin\Debug\GalleryApplication.exe
+C:\Users\hasan\source\repos\GalleryApplication\GalleryApplication\bin\Debug\GalleryApplication.pdb
+C:\Users\hasan\source\repos\GalleryApplication\GalleryApplication\obj\Debug\GalleryApplication.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\GalleryApplication\GalleryApplication\obj\Debug\GalleryApplication.Form1.resources
+C:\Users\hasan\source\repos\GalleryApplication\GalleryApplication\obj\Debug\GalleryApplication.Properties.Resources.resources
+C:\Users\hasan\source\repos\GalleryApplication\GalleryApplication\obj\Debug\GalleryApplication.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\GalleryApplication\GalleryApplication\obj\Debug\GalleryApplication.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\GalleryApplication\GalleryApplication\obj\Debug\GalleryApplication.exe
+C:\Users\hasan\source\repos\GalleryApplication\GalleryApplication\obj\Debug\GalleryApplication.pdb
